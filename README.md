@@ -11,4 +11,4 @@ To run use this command:
 
 # Docker
 To run using docker use:
-`ddocker run -p 8080:8080 -d node-app:1.0`
+`docker run -p 8080:8080 -d node-app:1.0`
