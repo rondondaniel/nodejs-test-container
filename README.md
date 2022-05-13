@@ -1,5 +1,5 @@
 # nodejs-test-container
-mini test container for testing serveless api infras
+mini test container for testing serverless api infras
 
 # Install
 To install just run it on the command line:
